@@ -22,8 +22,7 @@ public class Odd {
 		}
 		
 		System.out.println(kk);
-		System.out.println(kc);
-
+		
 	}
 
 }
